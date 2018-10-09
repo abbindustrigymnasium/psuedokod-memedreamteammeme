@@ -1,4 +1,4 @@
-"Räkna ut hur mycket pengar i studiebidrag en elev för under sina tre år på gymnasiet? Studiebidraget är 1 250 kronor i m�naden.
+"Räkna ut hur mycket pengar i studiebidrag en elev för under sina tre år på gymnasiet? Studiebidraget är 1 250 kronor i månaden.
 Du får det för alla hela månader du studerar under september till maj. Du får också en extra utbetalning i juni.
 I december får vissa bara ett halvt studiebidrag (625 kronor). Det gäller de som fyller 16 år i juli-september."
 
