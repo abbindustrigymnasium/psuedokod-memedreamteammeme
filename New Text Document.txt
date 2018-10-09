@@ -1,0 +1,14 @@
+Flygbolag	  Hotel	          Stärnor	  Flygtid i timmar    	Pris
+
+SAS	       Lyxfrallans hus   	4	             12	            12500
+Ryanairie	Liams stå rum	    1	             14	             3423
+Gröntflyg	Lala land	        3	             12	           9500
+Flyg fort	Lagomlagunen	    3	              8	            8560
+
+Vilket allternativ är billigast, snabbast och har högst betyg?
+
+Gör en array för varje flygbolag, i arrayen vill vi inkludera respektive kategori i tabellen.
+
+Dela Pris med flygtid och sedan med Stjärnor för att få fram ett medelvärde, ju lägre desto bättre.
+
+
