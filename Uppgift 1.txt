@@ -1,0 +1,32 @@
+"Räkna ut hur mycket pengar i studiebidrag en elev för under sina tre år på gymnasiet? Studiebidraget är 1 250 kronor i m�naden.
+Du får det för alla hela månader du studerar under september till maj. Du får också en extra utbetalning i juni.
+I december får vissa bara ett halvt studiebidrag (625 kronor). Det gäller de som fyller 16 år i juli-september."
+
+Börja med att skapa variabler med alla nödvändiga värden som behövs. Dessa är antal månader som man får bidrag på ett läsår, hur mycket man får i bidrag och antal år.
+Skapa även en boolesk variabel som är sann om man är född mellan juli och september och är falsk annars.
+Döp dessa till något passande så att du vet vad som är vad. Mata in dina värden.
+Slutligen skapa en variabel för avdraget som har ett värde som är hälften av bidraget. Räkna ut detta med hjälp av division. 
+för avdraget, använd t.ex:
+avdrag = x/2
+
+Använd multiplikation för att räkna ut hur mycket man får per läsår i bidrag:
+
+Bidrag * AntalMånader = PengarPerLäsår
+
+Skapa en if sats som drar bort ett halvt bidrag om man är född mellan juli och september.
+
+if JuliSeptember == true:
+    PengarPerLäsår - avdrag
+
+Multiplicera sedan PengarPerLäsår med antalet år
+
+TotalSumma = PengarPerLäsår * AntalÅr
+
+Skriv ett print kommand för att skriva ut värdet
+
+print(TotalSumma)
+
+    
+
+
+
